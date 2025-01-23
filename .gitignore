@@ -1,8 +1,6 @@
 1: Customer and Market Analysis/Sentiment Analysis/yelp_academic_dataset_review.json
 venv/
 .venv/
-2: Sales and Revenue Optimization/Sales Forecasting/train.csv
 2: Sales and Revenue Optimization/Sales Forecasting/test.csv
-2: Sales and Revenue Optimization/Sales Forecasting/store.csv
 2: Sales and Revenue Optimization/Sales Forecasting/full_data.csv
 2: Sales and Revenue Optimization/Sales Forecasting/full_data.json
