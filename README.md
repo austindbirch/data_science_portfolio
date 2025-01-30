@@ -25,8 +25,3 @@
 - Product Recommendation Systems: Collaborative Filtering, Neural Networks
 - Cart Abandonment Analysis: Regression models, Decision Trees
 - Store Layout Optimization: Association Rules, Heatmaps
-
-## Logistics and Transportation
-- Route Optimization: Genetic Algorithms, Dijkstra’s Algorithm
-- Fleet Maintenance Prediction: Classification, Anomaly Detection
-- Delivery Time Prediction: Regression models, Time Series Forecasting
