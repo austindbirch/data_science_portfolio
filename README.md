@@ -12,16 +12,9 @@
 - Cross-Selling and Upselling Identification: Association Rule Mining (Apriori, Eclat)
 
 ## Operational Efficiency
-- Inventory Management: Economic Order Quantity (EOQ), ABC Analysis, Demand forecasting
 - Resource Allocation and Scheduling: Linear programming, Constraint optimization
 - Risk Management: Monte Carlo Simulation, Value at Risk (VaR)git
 
 ## Financial Analysis
-- Loan Default Prediction: Classification techniques
 - Portfolio Optimization: Markowitz Optimization, Modern Portfolio Theory (MPT)
 - Fraud Detection: Anomaly detection (Isolation Forest, One-Class SVM, neural networks)
-
-## E-commerce and Retail
-- Product Recommendation Systems: Collaborative Filtering, Neural Networks
-- Cart Abandonment Analysis: Regression models, Decision Trees
-- Store Layout Optimization: Association Rules, Heatmaps
