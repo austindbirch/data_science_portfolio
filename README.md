@@ -1,4 +1,7 @@
 # Data Science Portfolio
+This repository contains a collection of Jupyter notebooks demonstrating my data analysis capabilities applied to real-world business problems. Each notebook showcases different analytical techniques and tools I've mastered to derive actionable insights from complex datasets. These notebooks demonstrate proficiency in various data science libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, and others.
+
+Each notebook is self contained. Some notebooks reference data that I didn't upload due to Github storage limitations. Where applicable, I've linked the original datasets.
 
 ## Customer and Market Analysis
 - [Customer Segmentation: K-Means Clustering, Hierarchical Clustering](https://github.com/austindbirch/data_science_cheatsheet/blob/master/1%3A%20Customer%20and%20Market%20Analysis/Customer%20Segmentation/customer_segmentation.ipynb)
