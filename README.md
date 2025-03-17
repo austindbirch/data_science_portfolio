@@ -9,7 +9,7 @@
 ## Sales and Revenue optimization
 - [Sales Forecasting: Regression, SARIMA, Deep Learning](https://github.com/austindbirch/data_science_project/blob/e6b02daf95a610975ad6009b668d97f264fd2d71/2%3A%20Sales%20and%20Revenue%20Optimization/Sales%20Forecasting/sales_forecasting.ipynb)
 - Price Optimization: Elasticity modeling, Regression analysis
-- Cross-Selling and Upselling Identification: Association Rule Mining (Apriori, Eclat)
+- [Cross-Selling and Upselling Identification: Association Rule Mining](https://github.com/austindbirch/data_science_project/blob/a65fc8d85a987e62d3763a5592a52c4862fe7ec8/2%3A%20Sales%20and%20Revenue%20Optimization/Upselling/upselling.ipynb)
 
 ## Operational Efficiency
 - Resource Allocation and Scheduling: Linear programming, Constraint optimization
